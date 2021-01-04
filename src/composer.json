@@ -1,0 +1,21 @@
+{
+    "name": "girover/tree",
+    "description": "The tree test package.",
+    "keywords": ["tree", "Majed"],
+    "license": "MIT",
+    "homepage": "https://nodeme.net.com",
+    "support": {
+        "source": "https://github.com/MajedGirover/Tree"
+    },
+    "authors": [
+        {
+            "name": "Majed Girover",
+            "email": "majed@majed.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Majed\\": "src/"
+        }
+    }
+}
